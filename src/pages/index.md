@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Bergen STEM
-image: /img/background.png
+image: /img/ramon-salinero-tesla.jpg
 heading: Bergen STEM
 subheading: 'Science, Technology, Engineering, and Mathematics'
 mainpitch:
