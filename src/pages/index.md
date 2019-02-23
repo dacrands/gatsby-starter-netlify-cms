@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Bergen STEM
-image: /img/home-jumbotron.jpg
+image: /img/background.png
 heading: Bergen STEM
 subheading: 'Science, Technology, Engineering, and Mathematics'
 mainpitch:
